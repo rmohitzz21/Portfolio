@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    background-color: red;
+    width: 20vw;
+}
+.sidebar nav{
+    padding: 45px;
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 35px;
+
+}
+.main{
+    background-color: yellow;
+    width: 80vw;
+}
+.container{
+    display: flex;
+}
